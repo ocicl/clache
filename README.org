@@ -1,0 +1,10 @@
+* clache
+
+General Caching Facility for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/html/clache.git   |
+| commit  | 1129767  |
+| systems | clache |
+|---------+-------------------------------------------|
+
